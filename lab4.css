@@ -1,0 +1,13 @@
+h1{
+    color: whitesmoke;
+    font-size: 30 px;
+}
+div {
+  width: 300px;
+  border: 15px solid whitesmoke;
+  padding: 50px;
+  margin: 20px;
+}
+body {
+  background: lightslategray no-repeat fixed center;
+}
