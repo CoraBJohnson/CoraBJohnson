@@ -1,8 +1,12 @@
 h1{
-    color: whitesmoke;
     font-size: 30 px;
 }
 
 body {
   background: no-repeat fixed center;
+  background-color:#6FB6E0;
 }
+
+/*jumbotron{*/
+/*    background-color: #509bc7;*/
+/*}*/
